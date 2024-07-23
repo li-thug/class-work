@@ -1,0 +1,64 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.container {
+  width: 80%;
+}
+
+.first {
+  background-color: red;
+  height: 200px;
+  width: 600px;
+}
+
+.second {
+  background-color: blue;
+  height: 200px;
+  width: 400px;
+}
+
+.third {
+  background-color: yellow;
+  height: 100px;
+  width: 400px;
+}
+
+.fourth {
+  background-color: green;
+  height: 100px;
+  width: 300px;
+}
+
+.fifth {
+  background-color: brown;
+  height: 100px;
+  width: 300px;
+}
+
+.sixth {
+  background-color: purple;
+  height: 100px;
+  width: 400px;
+}
+
+.seventh {
+  background-color: blue;
+  height: 100px;
+  width: 300px;
+}
+
+.eighth {
+  background-color: rgb(42, 165, 91);
+  height: 100px;
+  width: 300px;
+}
+
+.block1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
